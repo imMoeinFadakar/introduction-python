@@ -66,7 +66,7 @@
 <br>
 <h2> Degree`s </h2>
 
-<h3>2 . This part can calculate your GPA </h3>
+<h3>3 . This part can calculate your GPA </h3>
 
 <h5>Features 💫</h5>
 <ol>
@@ -86,7 +86,7 @@
 <br>
 <h2> Triangle </h2>
 
-<h3>2 . According to the entered sides, it can confirm the correctness of the triangle (according to the law that one of the sides of the triangle should not be greater than the sum of the other two</h3>
+<h3>4 . According to the entered sides, it can confirm the correctness of the triangle (according to the law that one of the sides of the triangle should not be greater than the sum of the other two</h3>
 
 <h5>Features 💫</h5>
 <ol>

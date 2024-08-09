@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/PHP-blue">
 </p>
 
-*screenshot:
+
 <img src="/screenshots/degree.png"> 
 
 <br>
@@ -100,7 +100,7 @@
 <img src="https://img.shields.io/badge/PHP-blue">
 </p>
 
-*screenshot:
+
 <img src="/screenshots/triangle.png"> 
 
 <br>

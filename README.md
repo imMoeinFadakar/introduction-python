@@ -42,7 +42,7 @@
 
 
 
-<img src=""> 
+<img src="/screenshots/calculator.png"> 
 
 <br>
 <h2> BMI </h2>

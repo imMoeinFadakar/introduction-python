@@ -1,9 +1,10 @@
 <h1> introduction-python </h1>
 
 <h3> its a python cours and this practies are therefor</h3>
+<p>SE.1</p>
 
 <h5>List of Pyhon Project </h5>
-<p>SE.1</p>
+
 <ol>
   <li>calcluator</li>
   <li>BMI</li>
@@ -13,7 +14,6 @@
 
 
 <h5>List of PHP Project</h5>
-<p>SE.1</p>
 <ol>
   <li>calcluator</li>
   <li>BMI</li>

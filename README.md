@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/PHP-blue">
 </p>
 
-<img src=""> 
+<img src="/screenshots/BMI.png"> 
 
 <br>
 <h2> Degree`s </h2>
@@ -81,7 +81,7 @@
 </p>
 
 *screenshot:
-<img src=""> 
+<img src="/screenshots/degree.png"> 
 
 <br>
 <h2> Triangle </h2>
@@ -101,7 +101,7 @@
 </p>
 
 *screenshot:
-<img src=""> 
+<img src="/screenshots/triangle.png"> 
 
 <br>
 

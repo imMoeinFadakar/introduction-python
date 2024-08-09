@@ -33,10 +33,9 @@
 * unlimited Oprations
 
 <h5>Tech`s 🔧 </h5>
-<a>
 <img src="https://img.shields.io/badge/python-red">
 <img src="https://img.shields.io/badge/PHP-blue">
-</a>
+
 
 <img src=""> 
 
@@ -49,10 +48,10 @@
 * satus obesside
 
 <h5>Tech`s 🔧 </h5>
-<a>
+
 <img src="https://img.shields.io/badge/python-red">
 <img src="https://img.shields.io/badge/PHP-blue">
-</a>
+
 
 <img src=""> 
 
@@ -65,10 +64,9 @@
 * satus obesside
 
 <h5>Tech`s 🔧 </h5>
-<a>
 <img src="https://img.shields.io/badge/python-red">
 <img src="https://img.shields.io/badge/PHP-blue">
-</a>
+
 
 *screenshot:
 <img src=""> 
@@ -83,10 +81,9 @@
 * It is possible or impossible to form a triangle
 
 <h5>Tech`s 🔧 </h5>
-<a>
 <img src="https://img.shields.io/badge/python-red">
 <img src="https://img.shields.io/badge/PHP-blue">
-</a>
+
 
 *screenshot:
 <img src=""> 

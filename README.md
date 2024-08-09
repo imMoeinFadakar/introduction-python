@@ -4,17 +4,22 @@
 
 <h5>List of Pyhon Project </h5>
 <p>SE.1</p>
-* calcluator
-* BMI 
-* Degree`s
-* Triangle
+<ol>
+  <li>calcluator</li>
+  <li>BMI</li>
+  <li>Degree</li>
+  <li>Triangle</li>  
+</ol>
+
 
 <h5>List of PHP Project</h5>
 <p>SE.1</p>
-* calcluator
-* BMI 
-* Degree`s
-* Triangle
+<ol>
+  <li>calcluator</li>
+  <li>BMI</li>
+  <li>Degree</li>
+  <li>Triangle</li>  
+</ol>
 
 <br>
 

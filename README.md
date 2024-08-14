@@ -121,7 +121,7 @@
 
 <h2> guess-number-game </h2>
 
-<h3>4 . comuter will make a number randomly and user have to guess what it is</h3>
+<h3>5 . comuter will make a number randomly and user have to guess what it is</h3>
 
 <h5>Features 💫</h5>
 <ol>
@@ -136,13 +136,13 @@
 </p>
 
 
-<img src="/screenshots/gues_number.png"> 
+<img src="screenshots/guess_number.png"> 
 
 <br>
 
 <h2> Dice </h2>
 
-<h3>4 . random dice , when it come to 6 user have a bounes!</h3>
+<h3>6 . random dice , when it come to 6 user have a bounes!</h3>
 
 <h5>Features 💫</h5>
 <ol>
@@ -157,7 +157,7 @@
 </p>
 
 
-<img src="/screenshots/gues_number.png"> 
+<img src="screenshots/dice.png"> 
 
 <br>
 <h2> sec To Hours </h2>
@@ -176,7 +176,7 @@
 </p>
 
 
-<img src="/screenshots/gues_number.png"> 
+<img src="screenshots/secToHours.png"> 
 
 <br>
 
@@ -197,7 +197,7 @@
 </p>
 
 
-<img src="/screenshots/gues_number.png"> 
+<img src="screenshots/ssss.png"> 
 
 <br>
 
@@ -218,7 +218,7 @@
 </p>
 
 
-<img src="/screenshots/gues_number.png"> 
+<img src="screenshots/fibonachi.png"> 
 
 <br>
 

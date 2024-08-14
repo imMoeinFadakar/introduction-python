@@ -10,7 +10,7 @@
   <li>BMI</li>
   <li>Degree</li>
   <li>Triangle</li>  
-  <li>. SE 2</li>
+ <h4>SE.2</h4>
   <li>guess-number</li>
   <li>Dice</li>
   <li>secToHour</li>
@@ -26,7 +26,7 @@
   <li>BMI</li>
   <li>Degree</li>
   <li>Triangle</li>  
-    <li>. SE 2</li>
+   <h4>SE.2</h4>
   <li>guess-number</li>
   <li>Dice</li>
   <li>secToHour</li>

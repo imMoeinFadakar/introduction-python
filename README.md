@@ -105,4 +105,23 @@
 
 <br>
 
+<h2> guess-number-game </h2>
 
+<h3>4 . comuter will make a number randomly and user have to guess what it is</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>guiding user to reach to correct number</li>
+  <li>showing that how many times that user tried</li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src=""> 
+
+<br>

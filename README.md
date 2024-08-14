@@ -10,6 +10,13 @@
   <li>BMI</li>
   <li>Degree</li>
   <li>Triangle</li>  
+  <li>. SE 2</li>
+  <li>guess-number</li>
+  <li>Dice</li>
+  <li>secToHour</li>
+  <li>timetoSec</li>
+  <li>updateDgree</li>
+  <li>fionachi</li>
 </ol>
 
 
@@ -19,6 +26,13 @@
   <li>BMI</li>
   <li>Degree</li>
   <li>Triangle</li>  
+    <li>. SE 2</li>
+  <li>guess-number</li>
+  <li>Dice</li>
+  <li>secToHour</li>
+  <li>timetoSec</li>
+  <li>updateDgree</li>
+  <li>fionachi</li>
 </ol>
 
 <br>
@@ -125,3 +139,89 @@
 <img src="/screenshots/gues_number.png"> 
 
 <br>
+
+<h2> Dice </h2>
+
+<h3>4 . random dice , when it come to 6 user have a bounes!</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>automaticlly works</li>
+
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="/screenshots/gues_number.png"> 
+
+<br>
+<h2> sec To Hours </h2>
+
+<h3>4 . it will give  sec from you and turn into hours , min , remain sec</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>showing exactly H:M:S </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="/screenshots/gues_number.png"> 
+
+<br>
+
+<h2> Hours to sec </h2>
+
+<h3>4 . it will give hours abnd min ,  turn it into sec </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>counting sec and min`s to hours in process</li>
+
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="/screenshots/gues_number.png"> 
+
+<br>
+
+<h2> fionachy algorithem </h2>
+
+<h3>4 . just give it how many step you want to see this process and it will continue it until reach ti it </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>makeing fibonachy process correctly</li>
+
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="/screenshots/gues_number.png"> 
+
+<br>
+
+
+
+

@@ -30,8 +30,8 @@
 
 
 <h5>List of PHP Project</h5>
-<h4>SE.1</h4>
 <ol>
+  <h4>SE.1</h4>
   <li>calcluator</li>
   <li>BMI</li>
   <li>Degree</li>

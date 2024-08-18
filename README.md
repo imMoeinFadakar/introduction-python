@@ -1,10 +1,10 @@
 <h1> introduction-python </h1>
 
 <h3> its a python cours and this practies are therefor</h3>
-<p>SE.1</p>
+
 
 <h5>List of Pyhon Project </h5>
-
+<h4>SE.1</h4>
 <ol>
   <li>calcluator</li>
   <li>BMI</li>
@@ -21,6 +21,7 @@
 
 
 <h5>List of PHP Project</h5>
+<h4>SE.1</h4>
 <ol>
   <li>calcluator</li>
   <li>BMI</li>
@@ -222,6 +223,26 @@
 
 <br>
 
+<h2>se.3</h2>
+
+<h2> hang-man game</h2>
+
+<h3>select the word automatically and turn its charcters to array and check the users response for the correct or false answer  </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>gang-man game structer </li>
+<li>finding the correct or wrong </li>
+  <li>counting user mistakes</li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+</p>
 
 
+<img src="screenshots/fibonachi.png"> 
+
+<br>
 

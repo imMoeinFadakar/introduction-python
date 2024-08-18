@@ -4,8 +4,9 @@
 
 
 <h5>List of Pyhon Project </h5>
-<h4>SE.1</h4>
+
 <ol>
+  <h4>SE.1</h4>
   <li>calcluator</li>
   <li>BMI</li>
   <li>Degree</li>
@@ -17,6 +18,14 @@
   <li>timetoSec</li>
   <li>updateDgree</li>
   <li>fionachi</li>
+  <h4>SE.3</h4>
+   <li>hang-man game</li>
+  <li>random-list</li>
+  <li>is this list sorted?</li>
+  <li>G.D.C</li>
+  <li>L.C.M</li>
+   <li>my-sanke</li>
+   <li>word-counter</li>
 </ol>
 
 
@@ -34,6 +43,13 @@
   <li>timetoSec</li>
   <li>updateDgree</li>
   <li>fionachi</li>
+  <h4>SE.3</h4>
+  <li>random-list</li>
+  <li>is this list sorted?</li>
+  <li>G.D.C</li>
+  <li>L.C.M</li>
+   <li>my-sanke</li>
+   <li>word-counter</li>
 </ol>
 
 <br>
@@ -352,7 +368,7 @@ these index`s are random numbers </h3>
 
 <h5>Features 💫</h5>
 <ol>
-  <li> L.C.M of tow number </li>
+  <li> generate snake using the user number </li>
 </ol>
 
 <h5>Tech`s 🔧 </h5>

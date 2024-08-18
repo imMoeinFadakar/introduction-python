@@ -16,10 +16,10 @@ print(f" result = {result}")
 if result < 12:
     print(f" result = {result} status: fail")
 
-elif result > 12 and result > 17:
+elif result > 12 and result < 17:
     print(f" result = {result} status: normal")
 
-elif result > 17 and result > 20:
+elif result > 17 and result < 20:
     print(f" result = {result} status: Great")
 
 

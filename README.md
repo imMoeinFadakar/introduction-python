@@ -201,7 +201,7 @@
 
 <br>
 
-<h2> fionachy algorithem </h2>
+<h2> fibonachy algorithem </h2>
 
 <h3>4 . just give it how many step you want to see this process and it will continue it until reach ti it </h3>
 

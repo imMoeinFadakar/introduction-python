@@ -242,7 +242,145 @@
 </p>
 
 
-<img src="screenshots/fibonachi.png"> 
+<img src="screenshots"> 
+
+<br>
+<h2> random-list</h2>
+
+<h3>this will give you a number & create a list that its index will be equall to youe number 
+these index`s are random numbers </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> generating array with random numbers </li>
+
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
 
 <br>
 
+<h2>is this list sorted?</h2>
+
+<h3>this code will check that do list that user entered is sorted or not? </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> true or false of this test</li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>G.D.C</h2>
+
+<h3>this code will ask you two parameter and return its G.D.C</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> G.D.C of tow number </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>L.C.M</h2>
+
+<h3>this code will ask you two parameter and return its L.C.M</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> L.C.M of tow number </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>L.C.M</h2>
+
+<h3>this code will ask you two parameter and return its L.C.M</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> L.C.M of tow number </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+<h2>my-sanke</h2>
+
+<h3>will give a param from user and generating a snake using this -> (*#) <- characters </h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> L.C.M of tow number </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+<h2>word-counter</h2>
+
+<h3>this code will give a sentece and count its words (no limitation...)</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> counting words in a sentence </li>
+</ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>

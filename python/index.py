@@ -14,12 +14,13 @@ print("cot : cot")
 print("factorial : fact")
 print("exit : exit")
 
+
+
+i = 1
+
+while i == 1:
 print("Select an  Operation :")
 operationChoice = input()
-
-
-while operationChoice != "exit":
-
 
     if operationChoice == "+" or operationChoice == "-" or operationChoice == "*" or operationChoice == "/":
 

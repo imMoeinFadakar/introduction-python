@@ -26,6 +26,13 @@
   <li>L.C.M</li>
    <li>my-sanke</li>
    <li>word-counter</li>
+    <h4>SE.4</h4>
+  <li>unfollow_finder<li>
+  <li>new_follower_finder<li>
+  <li>is it factorial<li>  
+  <li>QRcode<li>
+  <li>reversing List<li>
+  <li>remove duplicate in list<li>
 </ol>
 
 
@@ -50,6 +57,10 @@
   <li>L.C.M</li>
    <li>my-sanke</li>
    <li>word-counter</li>
+     <h4>SE.4</h4>
+  <li>is it factorial<li>  
+  <li>reversing List<li>
+  <li>remove duplicate in list<li>
 </ol>
 
 <br>
@@ -389,6 +400,68 @@ these index`s are random numbers </h3>
 <ol>
   <li> counting words in a sentence </li>
 </ol>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+<h2>instagram unfollow finder</h2>
+
+<h3>connect to your instagram find those who dont follow you and unfollow them</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li> reading list in python </li>
+  <li>return a list of unfollowers</li>
+  <li>connecting to your instagram account</li>
+</ol>
+
+<h5>how to use  ⚙️</h5>
+<li>download and user (python >= 3)</li>
+
+<h5>what do i learn? 🌱</h5>
+<li>Reading files from file.txt </li>
+<li>use instaloader </li>
+<li>working with python better</li>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>QR code</h2>
+
+<h3>generating a QR code and save any information on it</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>having any information </li>
+  <li>return as a png file</li>
+  
+</ol>
+
+<h5>how to use  ⚙️</h5>
+<li>download and user (python >= 3)</li>
+<li>install  qrcode package:  <a href="https://github.com/lincolnloop/python-qrcode" >Github repo</a></li>
+<h4> sudo apt </h4>
+
+
+<h5>what do i learn? 🌱</h5>
+<li>Reading files from file.txt </li>
+<li>use instaloader </li>
+<li>working with python better</li>
 
 <h5>Tech`s 🔧 </h5>
 <p>

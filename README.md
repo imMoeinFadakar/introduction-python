@@ -455,7 +455,7 @@ these index`s are random numbers </h3>
 <h5>how to use  ⚙️</h5>
 <li>download and user (python >= 3)</li>
 <li>install  qrcode package:  <a href="https://github.com/lincolnloop/python-qrcode" >Github repo</a></li>
-<h4> sudo apt </h4>
+<tab><tab> sudo apt
 
 
 <h5>what do i learn? 🌱</h5>

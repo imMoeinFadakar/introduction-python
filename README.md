@@ -451,11 +451,12 @@ these index`s are random numbers </h3>
   <li>return as a png file</li>
   
 </ol>
+## ommsfbfbbfd
 
 <h5>how to use  ⚙️</h5>
 <li>download and user (python >= 3)</li>
 <li>install  qrcode package:  <a href="https://github.com/lincolnloop/python-qrcode" >Github repo</a></li>
-## medvsvssv
+** medvsvssv
 
 <h5>what do i learn? 🌱</h5>
 <li>Reading files from file.txt </li>

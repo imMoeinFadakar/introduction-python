@@ -456,7 +456,8 @@ these index`s are random numbers </h3>
 <li>download and user (python >= 3)</li>
 <li>install  qrcode package:  <a href="https://github.com/lincolnloop/python-qrcode" >Github repo</a></li>
 <tab><tab> sudo apt
-
+##
+<tab><tab>code/text here
 
 <h5>what do i learn? 🌱</h5>
 <li>Reading files from file.txt </li>

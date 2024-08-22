@@ -424,6 +424,8 @@ these index`s are random numbers </h3>
 
 <h5>how to use  ⚙️</h5>
 <li>download and user (python >= 3)</li>
+<li>install instaloader:# $ sudo apt install python3-instaloader  #</li>
+
 
 <h5>what do i learn? 🌱</h5>
 <li>Reading files from file.txt </li>
@@ -451,17 +453,106 @@ these index`s are random numbers </h3>
   <li>return as a png file</li>
   
 </ol>
-## ommsfbfbbfd
+
 
 <h5>how to use  ⚙️</h5>
 <li>download and user (python >= 3)</li>
 <li>install  qrcode package:  <a href="https://github.com/lincolnloop/python-qrcode" >Github repo</a></li>
-** medvsvssv
+
+<h6>installition</h6>
+<li>linux :# $ sudo apt install python3-qrcode #</li>
 
 <h5>what do i learn? 🌱</h5>
-<li>Reading files from file.txt </li>
-<li>use instaloader </li>
-<li>working with python better</li>
+<li>use qrcode package </li>
+<li>generating qrcode with python</li>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>is this number factorial?</h2>
+
+<h3>check for being factorial or not any number that user enter</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>cheking for factorial</li>
+  <li>get number from user</li>
+</ol>
+
+
+<h5>how to use ⚙️</h5>
+<li>download and user (python >= 3)</li>
+
+<h6>installition</h6>
+<li>linux :# $ sudo apt install python3-qrcode #</li>
+
+<h5>what do i learn? 🌱</h5>
+<li>Define functions in python for check it</li>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>revers sorted array</h2>
+
+<h3>it will take a list/array and sort it reverse</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>sort-revers array/list</li>
+</ol>
+
+
+<h5>how to use ⚙️</h5>
+<li>download and user (python >= 3)</li>
+<li>getting number from user</li>
+
+<h5>what do i learn? 🌱</h5>
+<li>reverse() method uses (for py)</li>
+<li>asort() method uses (for php)</li>
+
+<h5>Tech`s 🔧 </h5>
+<p>
+<img src="https://img.shields.io/badge/python-red">
+<img src="https://img.shields.io/badge/PHP-blue">
+</p>
+
+
+<img src="screenshots"> 
+
+<br>
+
+<h2>Delete Duplicate indexes</h2>
+
+<h3>if it takes a list/array it will remove there duplicated indexes</h3>
+
+<h5>Features 💫</h5>
+<ol>
+  <li>Delete same indexes from arr/list </li>
+</ol>
+
+
+<h5>how to use ⚙️</h5>
+<li>download and user (python >= 3)</li>
+
+
+<h5>what do i learn? 🌱</h5>
+<li>makeing lists unique (for py & php)</li>
 
 <h5>Tech`s 🔧 </h5>
 <p>

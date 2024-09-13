@@ -1,11 +1,16 @@
 # this one will make a chess table
 
 def chess_border_maker(n: int , m: int):
-    for row in range(1,n+1):
-        print("#*", end=" ")
-        for col in range(1,m):
-            print("#*",end=" ")
-        print()
+    for i in range(m):
+        for b in range(n):
+            colAndRow = (i + b)
+            if((colAndRow % 2) == 0):
+                print("*" , "\t")
+            else:
+                print("#" , "\t"); 
+
+
+            print()
 
 
 # this one will create a multiply table
